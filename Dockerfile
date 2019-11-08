@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:18.10
 
 RUN mkdir /data
 WORKDIR /data
